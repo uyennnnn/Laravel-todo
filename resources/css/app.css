@@ -1,0 +1,20 @@
+html,
+body,
+.container-fluid {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar {
+    flex: 0 0 auto;
+    height: 100%;
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+}
+
+.main-content {
+    flex: 1 1 auto;
+    padding: 20px;
+}
